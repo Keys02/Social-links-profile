@@ -34,7 +34,8 @@ body {
     background-color: #1f1f1f;
     border-radius: 15px;
     width: 450px;
-    height: 650px;
+    height: 85vh;
+    padding: 1em;
 }
 
 .avatar-sec {
